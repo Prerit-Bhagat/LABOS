@@ -1,0 +1,11 @@
+# Ignore build directories
+build/
+dist/
+
+# Ignore temporary files
+*.tmp
+
+# Ignore specific file
+Untitled3.cpp
+Untitled4.cpp
+Untitled7.cpp
